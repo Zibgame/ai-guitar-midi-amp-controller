@@ -104,6 +104,9 @@ ollama serve
 
 ---
 
+### install Vox USB-MIDI:
+ 👉 https://voxamps.com/wp-content/uploads/2019/09/VoxDrvTools115_r33e-1.exe
+
 ## 🎹 Supported Amplifier
 
 - **VOX Valvetronix series**
