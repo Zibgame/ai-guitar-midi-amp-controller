@@ -203,5 +203,25 @@ VOX and Valvetronix are trademarks of their respective owners.
 
 ---
 
+##👀 If You Are a Recruiter
+
+- This project allowed me to learn and demonstrate:
+
+- how to reverse engineer a proprietary MIDI SysEx protocol
+
+- how to control real hardware from software, with timing and physical constraints
+
+- how to design a clean and safe interface between an AI model and a real system
+
+- how to structure an application where AI output must be validated, sanitized, and constrained
+
+- how to use an LLM as a deterministic component in a production-like pipeline, not as a chatbot
+
+Beyond music, this project reflects my interest in:
+low-level systems, hardware interaction, reverse engineering, and applied AI.
+
+The guitar amplifier is the medium — the core skills are transferable to
+embedded systems, tooling, automation, and AI-assisted control software.
+
 🎸 *Describe a sound. Let the AI play your amp.*
 
