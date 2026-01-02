@@ -1,4 +1,4 @@
-# AI Guitar Amp Controller
+# AI Guitar Midi Amp Controller
 
 AI-powered guitar amplifier controller that generates and applies presets **in real time** using MIDI SysEx messages.
 
