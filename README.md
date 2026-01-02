@@ -93,7 +93,7 @@ Install Ollama:
 Then pull the required model:
 
 ```bash
-ollama pull llama3.1:8b
+ollama pull llama3:8b
 ```
 
 Make sure Ollama is running before launching the application:
