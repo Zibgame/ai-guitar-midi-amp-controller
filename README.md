@@ -203,7 +203,7 @@ VOX and Valvetronix are trademarks of their respective owners.
 
 ---
 
-##👀 If You Are a Recruiter
+## 👀 If You Are a Recruiter
 
 - This project allowed me to learn and demonstrate:
 
