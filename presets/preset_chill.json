@@ -1,0 +1,37 @@
+{
+  "eq": {
+    "gain": 14,
+    "bass": 68,
+    "middle": 45,
+    "treble": 58,
+    "volume": 85
+  },
+
+  "pedal1": {
+    "enabled": true,
+    "type": "compressor",
+    "value1": 50,
+    "value2": 50
+  },
+
+  "pedal2": {
+    "enabled": true,
+    "type": "flanger",
+    "rate": 340,
+    "depth": 80,
+    "feedback": 35,
+    "manual": 20,
+    "wave": 0,
+    "mix": 55
+  },
+
+  "reverb": {
+    "enabled": true,
+    "type": "hall",
+    "level": 40,
+    "time": 50,
+    "predelay": 10,
+    "tone": 48,
+    "character": 30
+  }
+}

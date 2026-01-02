@@ -1,0 +1,11 @@
+{
+    "pedal2": {
+      "type": "delay",
+      "time": 50,
+      "level": 40,
+      "feedback": 30,
+      "tone": 20,
+      "mod_depth": 10
+    }
+  }
+  
